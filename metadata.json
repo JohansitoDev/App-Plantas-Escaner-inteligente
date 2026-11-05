@@ -1,0 +1,6 @@
+{
+  "name": "My Plants",
+  "description": "Plant identifier and care assistant with instant camera scanning, botanical characteristics, and identification history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
